@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gondalf_1" target="blank"><img src="https://img.shields.io/twitter/follow/gondalf_1?logo=twitter&style=for-the-badge" alt="gondalf_1" /></a> </p>
 
-- 🔭 I’m currently working on **Skill**
+- 🔭 Aiming to be a back end dev **Skill**
 
 - 🌱 I’m currently learning **Python**
 
