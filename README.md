@@ -4,7 +4,7 @@
 
 - ✔️ Current goal: Succeed next year in pool of 1337
  
-- 🔭 Aiming to specialize in robotics and embeded systems
+- 🔭 Aiming to specialize in technical engineering
 
 - 🌱 I’m currently learning **Python and C**
 
