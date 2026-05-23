@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Abdelahe aka Mr.New Vegas</h1>
 <img align="right" alt="Coding" width="400" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
 
-- ✔️ Current goal: Succeed next year in pool of 1337
- 
-- 🔭 Aiming to specialize in technical engineering
+- ✔️ Current goal: Become 1337 student
 
 - 🌱 I’m currently learning **Python and C**
+
+- Hobbies make music, mods for games, sport
 
 - ⚡ fact **3andak 3atakl, ma3andakch ma3ataklch.**
