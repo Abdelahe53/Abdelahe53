@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- Hobbies make music, mods for games, sport
+- ✨ Hobbies: Make music, creating mods for games, sport
 
 - ⚡ fact **3andak 3atakl, ma3andakch ma3ataklch.**
