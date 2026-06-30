@@ -35,12 +35,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelahe&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelahe/Abdelahe/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
 ---
 
 <p align="center">
