@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdelahe aka Mr.New Vegas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&width=500&lines=Coder+%7C+Modder+%7C+Music+maker;Learning+C+and+Python;Building+stuff%2C+breaking+stuff;3andak+3atakl%2C+ma3andakch+ma3ataklch." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EAA25&center=true&vCenter=true&width=500&lines=Building+stuff%2C+breaking+stuff;3andak+3atakl%2C+ma3andakch+ma3ataklch." alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
