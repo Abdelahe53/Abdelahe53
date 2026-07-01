@@ -1,41 +1,24 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHUxMjFlN3JhcW9tYnllYTdkZ3Q3dTB0Y2lnbjhkOXNkZGw4ZzN0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nN9YSGctZH6KK3uX3U/200.gif" width="100%">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&height=50&lines=ABDELAHE" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=MR.+NEW+VEGAS;CODER+%E2%80%A2+MODDER+%E2%80%A2+MUSICIAN;3ANDAK+3ATAKL%2C+MA3ANDAKCH+MA3ATAKLCH." alt="Typing SVG" />
-</p>
-
-<p align="center">━━━━━━━━━━━━ ⟡ ━━━━━━━━━━━━</p>
-
-<img align="right" alt="Coding" width="320" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
-
-**✧ Current goal** — Become a 1337 student
-**✧ Currently learning** — Python and C
-**✧ Hobbies** — Making music, modding games, sport
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<h1 align="center">Hi 👋, I'm Abdelahe aka Mr.New Vegas</h1>
+<h3 align="center">Coder | Modder | Music maker</h3>
+<img align="right" alt="Coding" width="400" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
+- ✔️ **Current goal:** Become a 1337 student
+- 🌱 **Currently learning:** Python and C
+- ✨ **Hobbies:** Making music, creating mods for games, sport
+- ⚡ **Fact:** 3andak 3atakl, ma3andakch ma3ataklch.
 <br clear="right"/>
-
-<p align="center">━━━━━━━━━━━━ ⟡ ━━━━━━━━━━━━</p>
-
-<h3 align="center">SKILLS</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,git&theme=dark" alt="skills" />
+## 🛠️ Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-<p align="center">━━━━━━━━━━━━ ⟡ ━━━━━━━━━━━━</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelahe&theme=black&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="streak stats"/>
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelahe&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
-
+---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelahe&style=flat-square&color=D4AF37&label=VISITORS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdelahe&style=flat-square&color=blue" alt="profile views"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=100&section=footer" width="100%">
