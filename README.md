@@ -8,8 +8,6 @@
 
 <p align="center">━━━━━━━━━━━━ ⟡ ━━━━━━━━━━━━</p>
 
-<img align="right" alt="Coding" width="340" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
-
 **✧ Current goal** — Become a 1337 student
 **✧ Currently learning** — Python and C
 **✧ Hobbies** — Making music, modding games, sport
