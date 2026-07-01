@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Abdelahe aka Mr.New Vegas</h1>
 <h3 align="center">Coder | Modder | Music maker</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a8/cf/0c/a8cf0c30a9b98cb97f6cb7e2f3ec75fa.gif">
 
 - ✔️ **Current goal:** Become a 1337 student
 - 🌱 **Currently learning:** Python and C
