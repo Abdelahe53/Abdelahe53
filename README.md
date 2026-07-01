@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=180&section=header&text=ABDELAHE&fontSize=50&fontColor=000000&fontAlignY=40&animation=fadeIn&desc=MR.NEW%20VEGAS&descAlignY=65&descSize=18&descColor=000000" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHUxMjFlN3JhcW9tYnllYTdkZ3Q3dTB0Y2lnbjhkOXNkZGw4ZzN0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nN9YSGctZH6KK3uX3U/200.gif" width="100%">
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&height=50&lines=ABDELAHE" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=CODER+%E2%80%A2+MODDER+%E2%80%A2+MUSICIAN;3ANDAK+3ATAKL%2C+MA3ANDAKCH+MA3ATAKLCH." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=16&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=600&lines=MR.+NEW+VEGAS;CODER+%E2%80%A2+MODDER+%E2%80%A2+MUSICIAN;3ANDAK+3ATAKL%2C+MA3ANDAKCH+MA3ATAKLCH." alt="Typing SVG" />
 </p>
 
 <p align="center">━━━━━━━━━━━━ ⟡ ━━━━━━━━━━━━</p>
+
+<img align="right" alt="Coding" width="320" src="https://media.moddb.com/images/games/1/33/32357/output_iK7zDV.gif">
 
 **✧ Current goal** — Become a 1337 student
 **✧ Currently learning** — Python and C
