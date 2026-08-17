@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abdelahe aka Mr.New Vegas</h1>
 <h3 align="center">Coder | Modder | Music maker</h3>
 
-- ✔️ **Current goal:** Become a 1337 student
-- ✨ **Hobbies:** Making music, Create mods for games, Sports
-
 <br clear="right"/>
 ## 🛠️ Skills
 <p align="left">
