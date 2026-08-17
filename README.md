@@ -3,9 +3,7 @@
 <h3 align="center">Coder | Modder | Music maker</h3>
 
 - ✔️ **Current goal:** Become a 1337 student
-- 🌱 **Currently learning:** Python and C
-- ✨ **Hobbies:** Making music, creating mods for games, sport
-- ⚡ **Fact:** 3andak 3atakl, ma3andakch ma3ataklch.
+- ✨ **Hobbies:** Making music, Create mods for games, Sports
 
 <br clear="right"/>
 ## 🛠️ Skills
