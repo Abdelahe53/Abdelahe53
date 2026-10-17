@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelahe&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdelahe&style=flat-square&color=blue" alt="profile views"/>
