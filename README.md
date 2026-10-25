@@ -4,13 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdellah aka Mr.Vegas</h1>
 <h3 align="center">Modder | Music producer</h3>
-
-<p align="center">
-  <a href="YOUR_SPOTIFY_LINK">
-    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify/>
-  </a>
-</p>
-
 <br clear="right"/>
 
 ## 🛠️ Skills
