@@ -6,7 +6,9 @@
 <h3 align="center">Modder | Music producer</h3>
 
 <p align="center">
-  🎵 <a href="https://open.spotify.com/track/2a65MWkc3bmIiWfbEZYE5i?si=e9a294626bb04795"></a>
+  <a href="YOUR_SPOTIFY_LINK">
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify/>
+  </a>
 </p>
 
 <br clear="right"/>
