@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Abdellah aka Mr.Vegas</h1>
 <h3 align="center">Modder | Music producer</h3>
 
+<p align="center">
+  🎵 <a href="https://open.spotify.com/track/2a65MWkc3bmIiWfbEZYE5i?si=e9a294626bb04795"></a>
+</p>
+
 <br clear="right"/>
 
 ## 🛠️ Skills
